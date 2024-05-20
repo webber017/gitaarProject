@@ -21,7 +21,7 @@
 
         <div class="flex items-center justify-between">
             <span class="text-3xl font-bold text-gray-900">€ 599</span>
-            <a href="#" class="text-white bg-[#003755] hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-[#ed564b] font-medium rounded-lg text-sm px-5 py-2.5 text-center">Bekijk meer</a>
+            <a  href="{{ route('products.show') }}" class="text-white bg-[#003755] hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-[#ed564b] font-medium rounded-lg text-sm px-5 py-2.5 text-center" >Bekijk meer</a>
         </div>
     </div>
 </div>
