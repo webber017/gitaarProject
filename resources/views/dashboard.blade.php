@@ -10,12 +10,12 @@
         <div >
            
 
-<div class="w-full max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+<div class="w-full max-w-sm bg-white border border-gray-200 rounded-lg shadow ">
     <a href="#">
         <img class="p-8 rounded-t-lg" src="{{ asset('product1.png') }}" alt="product image" />
     </a>
     <div class="px-5 pb-5">
-        <a class="text-xl font-semibold tracking-tight text-gray-900 dark:text-white" href="{{ route('products.show') }}">
+        <a class="text-xl font-semibold tracking-tight text-gray-900 " href="{{ route('products.show') }}">
             Gitaar series 500
         </a>
 
@@ -27,13 +27,13 @@
 </div>
  
         </div>
-        <div class="w-full max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+        <div class="w-full max-w-sm bg-white border border-gray-200 rounded-lg shadow">
             <a href="#">
                 <img class="p-8 rounded-t-lg" src="{{ asset('product2.png') }}" alt="product image" />
             </a>
             <div class="px-5 pb-5">
                 <a href="#">
-                    <h5 class="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">Gitar Premium 09</h5>
+                    <h5 class="text-xl font-semibold tracking-tight text-gray-900 ">Gitar Premium 09</h5>
                 </a>
 
                 <div class="flex items-center justify-between">
@@ -43,13 +43,13 @@
             </div>
         </div>
         <div >
-            <div class="w-full max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+            <div class="w-full max-w-sm bg-white border border-gray-200 rounded-lg shadow ">
                 <a href="#">
                     <img class="p-8 rounded-t-lg" src="{{ asset('product3.png') }}" alt="product image" />
                 </a>
                 <div class="px-5 pb-5">
                     <a href="#">
-                        <h5 class="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">Gitar Series 10</h5>
+                        <h5 class="text-xl font-semibold tracking-tight text-gray-900 ">Gitar Series 10</h5>
                     </a>
                     
                     <div class="flex items-center justify-between">
@@ -60,13 +60,13 @@
             </div>
         </div>
         <div >
-            <div class="w-full max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+            <div class="w-full max-w-sm bg-white border border-gray-200 rounded-lg shadow ">
                 <a href="#">
                     <img class="p-8 rounded-t-lg" src="{{ asset('product4.png') }}" alt="product image" />
                 </a>
                 <div class="px-5 pb-5">
                     <a href="#">
-                        <h5 class="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">Series 9</h5>
+                        <h5 class="text-xl font-semibold tracking-tight text-gray-900 ">Series 9</h5>
                     </a>
                     
                     <div class="flex items-center justify-between">
@@ -77,13 +77,13 @@
             </div>
         </div>
         <div >
-            <div class="w-full max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+            <div class="w-full max-w-sm bg-white border border-gray-200 rounded-lg shadow ">
                 <a href="#">
                     <img class="p-8 rounded-t-lg" src="{{ asset('product5.png') }}" alt="product image" />
                 </a>
                 <div class="px-5 pb-5">
                     <a href="#">
-                        <h5 class="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">Consoom me gitar</h5>
+                        <h5 class="text-xl font-semibold tracking-tight text-gray-900 ">Consoom me gitar</h5>
                     </a>
                     
                     <div class="flex items-center justify-between">
@@ -94,13 +94,13 @@
             </div>
         </div>
         <div >
-            <div class="w-full max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+            <div class="w-full max-w-sm bg-white border border-gray-200 rounded-lg shadow ">
                 <a href="#">
                     <img class="p-8 rounded-t-lg" src="{{ asset('product6.png') }}" alt="product image" />
                 </a>
                 <div class="px-5 pb-5">
                     <a href="#">
-                        <h5 class="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">Gitar Premium 6</h5>
+                        <h5 class="text-xl font-semibold tracking-tight text-gray-900 ">Gitar Premium 6</h5>
                     </a>
                     
                     <div class="flex items-center justify-between">
